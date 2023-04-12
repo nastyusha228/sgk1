@@ -1,0 +1,36 @@
+#block1 {
+    margin: 15px;
+    padding: 15px;
+    width: 250px;
+    height: 450px;
+    background-color: rgb(224, 163, 163);
+    display: inline-block;
+}
+#block2 {
+    margin: 15px;
+    padding: 15px;
+    width: 250px;
+    height: 450px;
+    background-color: rgb(221, 176, 133);
+    display: inline-block;
+}
+#block3 {
+    margin: 15px;
+    padding: 15px;
+    width: 250px;
+    height: 450px;
+    background-color: rgb(223, 159, 180);
+    display: inline-block;
+}
+#block4 {
+    margin: 15px;
+    padding: 15px;
+    width: 250px;
+    height: 450px;
+    background-color: rgb(208, 163, 219);
+    display: inline-block;
+}
+
+p {
+    display: flex;
+}
